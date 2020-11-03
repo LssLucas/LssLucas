@@ -1,7 +1,2 @@
-# Generation Brasil
-#### * Lógica de Programação :brain:
-#### * Java :coffee:
-#### * MySQL :package:
-#### * Postman :globe_with_meridians:
-#### * Angular :a:
-# Estudante do Técnico de Desenvolvimento de Sistemas :computer:
+## Hi, welcome to my portfolio.
+#### System Development student at Etec Jorge Street, and Java Full Stack student at Generation Brasil.
